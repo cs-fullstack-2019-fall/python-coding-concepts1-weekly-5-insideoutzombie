@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4760dbbb-0925-49cd-afcf-a77b3bea4672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-coding-concepts1-weekly-5-insideoutzombie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assessment_handout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assessment_handout.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4760dbbb-0925-49cd-afcf-a77b3bea4672" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567189801997</updated>
-      <workItem from="1567189803372" duration="3323000" />
+      <workItem from="1567189803372" duration="3585000" />
     </task>
     <servers />
   </component>
